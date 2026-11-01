@@ -1,3 +1,4 @@
+This project demonstrates Git branching and pull requests.
 # Introduction to Git and GitHub
 
 ## Simple Interest Calculator
